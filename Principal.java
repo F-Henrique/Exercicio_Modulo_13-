@@ -1,7 +1,5 @@
 package exercicios;
 
-import abstratas.Empregado;
-import abstratas.Horista;
 
 public class Principal {
 
